@@ -12,4 +12,6 @@ let aClass = AClass()
 
 aClass.methodA()
 
-
+let anotherClass = AnotherClassInTheSameFile()
+//
+ let anotherClassInAnotherFile = AnotherClassInAnotherFile()
